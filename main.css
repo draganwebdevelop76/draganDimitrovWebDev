@@ -1,0 +1,52 @@
+*{
+	margin: 0;
+	padding: 0;	
+}
+
+#wrapp {
+	width: 100%;
+}
+
+header {
+	width: 100%;
+	border-top: 1px solid transparent;
+}
+
+header img {
+	float: left;
+	width: 100vw;
+	height: 100vh;
+}
+
+.name {
+	text-align: center;
+	width: 100vw;
+	height: 200vh;
+	line-height: 100vh;
+	font-size:20vh;
+	color: green;
+	
+
+}
+
+.clr {
+	clear: both;
+}
+
+h1 {
+	text-align: left;
+	margin-left:10vw;
+	width: 100vw;
+	font-size:10vh;
+	line-height: 10vh;		
+}
+
+p {
+	text-align: left;
+	margin-left:2vw;
+	width: 100vw;
+	font-size:8vh;
+	line-height: 10vh;		
+}
+
+
